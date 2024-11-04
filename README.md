@@ -1,4 +1,4 @@
-# Byterush2..0 Ishaan submission
+# Byterush2.0 Ishaan submission
 I have made a game using the AI provided by unity. Also I have made my very own AI by training it on my laptop in unity.
 
 NOTE : THOUGH I HAVE INCLUDED THE RESULTS OF TRAINING, I WAS UNABLE TO ADD THE VIRTUAL ENVIRONMENT AS IT EXCEEDED THE FILE SIZE LIMIT OF GITHUB.
